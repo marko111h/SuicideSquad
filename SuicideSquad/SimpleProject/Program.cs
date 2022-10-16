@@ -10,6 +10,7 @@ namespace SimpleProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Adasdasdasd");
         }
     }
 }
